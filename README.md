@@ -12,6 +12,9 @@ The Department of Environmental Conservation, from New York city, has recently m
 
 :seedling: **Can you help them clean the data so that they can begin to raise awareness to ecological issues, such as climate change ?** :seedling:
 
+![NYC Picture (Image)](https://www.hudsonallergy.com/wp-content/uploads/2016/04/nyc-street-trees.jpg)
+
+
 ### :blossom: Dataset Information :blossom:
 
 #### :leaves: Data as it is :leaves:
