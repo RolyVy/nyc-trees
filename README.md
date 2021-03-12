@@ -1,4 +1,4 @@
-# nyc-trees
+# :deciduous_tree: nyc-trees :deciduous_tree:
 
 > ### Documents Information ###
 
