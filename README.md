@@ -17,11 +17,11 @@ The Department of Environmental Conservation, from New York city, has recently m
 
 ### :blossom: Dataset Information :blossom:
 
-#### :leaves: Data as it is :leaves:
+#### :leaves: Data as it is 
 
 There is 42 columns
 
-#### :leaves: Data Interpretation :leaves:
+#### :leaves: Data Interpretation 
 
 What does each columns means?
 
